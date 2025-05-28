@@ -1,0 +1,17 @@
+model,semantic_score
+modeller\lemmatized_model_cbow_window2_dim100.csv,5.0
+modeller\lemmatized_model_cbow_window2_dim300.csv,5.0
+modeller\lemmatized_model_cbow_window4_dim100.csv,5.0
+modeller\lemmatized_model_cbow_window4_dim300.csv,5.0
+modeller\lemmatized_model_skipgram_window2_dim100.csv,5.0
+modeller\lemmatized_model_skipgram_window2_dim300.csv,5.0
+modeller\lemmatized_model_skipgram_window4_dim100.csv,5.0
+modeller\lemmatized_model_skipgram_window4_dim300.csv,5.0
+modeller\stemmed_model_cbow_window2_dim100.csv,5.0
+modeller\stemmed_model_cbow_window2_dim300.csv,5.0
+modeller\stemmed_model_cbow_window4_dim100.csv,5.0
+modeller\stemmed_model_cbow_window4_dim300.csv,5.0
+modeller\stemmed_model_skipgram_window2_dim100.csv,5.0
+modeller\stemmed_model_skipgram_window2_dim300.csv,5.0
+modeller\stemmed_model_skipgram_window4_dim100.csv,5.0
+modeller\stemmed_model_skipgram_window4_dim300.csv,5.0
